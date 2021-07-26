@@ -1,7 +1,7 @@
 ***
 
 <!-- name of project -->
-<h3 align="center">
+<h3 align="center" name="start">
  <b>⚙ Python Console GUI ⚙</b>
 </h3>
 
@@ -69,10 +69,13 @@ If you tried to do console program on Python more intuitive to user, but all the
 ***
 
 <!-- Content of documentation -->
-<h3 align="center" style="font-size: 80px;">
- 📜 Content of ducmentation 📜
+<h3 align="center" style="font-size: 80px;" id="#content">
+ 📜 Content of docmentation 📜
 <h3> 
 	
 ***
 
+<blockquote><p><a href="#start">Start of documentation</a></p>
+	
+</blockquote>
 
