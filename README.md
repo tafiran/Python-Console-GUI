@@ -1,10 +1,15 @@
-<h1 align="center"><span style="color: red">Python Console GUI<span>
-<a href="https://github.com/tafiran" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="github" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
+<h1 align="center">
+ ⚙ Python Console GUI ⚙
+  <a href="https://github.com/tafiran" target="_blank">
+</h1>
+<div style="display: flex-box; flex-wrap: wrap; justify-content: space-around;">
+  
+</div>
 
 ![Иллюстрация к проекту](https://github.com/tafiran/Python-Console-GUI/blob/main/media/blovk.png?raw=true)
 
-
 If you tried to do console program on Python more intuitive to user, but all these tries led to using some libraries with primitive console menu or tkinter wich looks like a parody of the real app. Can be used web-interface but there are some problems.
+ 
  1. _Not every user is acquaintanted to web tecnologies._
  2. _If the program that you do is primitive, there is no reason to use web._ 
 
