@@ -1,14 +1,16 @@
-***
+	
+<hr name="start" />
 
 <!-- name of project -->
-<h3 align="center" name="start">
+<h3 align="center">
  <b>⚙ Python Console GUI ⚙</b>
 </h3>
 
-***
+	
+<hr />
 
 <!-- introduction  -->
-![i1](https://github.com/tafiran/Python-Console-GUI/blob/main/media/blovk.png?raw=true)
+<img name="i1" src="https://github.com/tafiran/Python-Console-GUI/blob/main/media/blovk.png" alt="illustration 1"></img>
 
 <!-- socials -->
 <div class="vk" width="50" height="30" color="red">
@@ -66,16 +68,21 @@ If you tried to do console program on Python more intuitive to user, but all the
 	</tbody>
 </table> <br />
 
-***
+	
+<hr name="content" />
 
 <!-- Content of documentation -->
 <h3 align="center" style="font-size: 80px;" id="#content">
  📜 Content of docmentation 📜
 <h3> 
 	
-***
-
-<blockquote><p><a href="#start">Start of documentation</a></p>
 	
+<hr />
+	
+<!-- content -->
+<blockquote><p><a href="#start">Start of documentation</a></p>
+	<blockquote><p><a href="#i1">Introduction</a></p></blockquote>
 </blockquote>
+	
+<blockquote><p><a href="#content">Content</a></p></blockquote>
 
