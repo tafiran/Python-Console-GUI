@@ -1,4 +1,5 @@
-# PYTHON CONSOLE GUI LIBRARY
+<h1 align="center"><span style="color: red">Python Console GUI<span>
+<a href="https://github.com/tafiran" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="github" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 
 ![Иллюстрация к проекту](https://github.com/tafiran/Python-Console-GUI/blob/main/media/blovk.png?raw=true)
 
