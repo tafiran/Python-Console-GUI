@@ -6,11 +6,10 @@
  <b>⚙ Python Console GUI ⚙</b>
 </h3>
 
-	
-<hr />
-
 <!-- introduction  -->
-<img name="i1" src="https://github.com/tafiran/Python-Console-GUI/blob/main/media/blovk.png" alt="illustration 1"></img>
+<hr name="i1" />
+
+<img src="https://github.com/tafiran/Python-Console-GUI/blob/main/media/block.png" alt="illustration 1"></img>
 
 <!-- socials -->
 <div class="vk" width="50" height="30" color="red">
