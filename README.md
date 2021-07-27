@@ -80,7 +80,7 @@ If you tried to do console program on Python more intuitive to user, but all the
 <hr />
 	
 <!-- content -->
-<blockquote><p><a href="#start">Start of documentation</a></p>
+<blockquote align><p><a href="#start">Start of documentation</a></p>
 	<blockquote><p><a href="#i1">Introduction</a></p></blockquote>
 </blockquote>
 	
