@@ -88,6 +88,7 @@ If you tried to do console program on Python more intuitive to user, but all the
 <blockquote><p><a href="#examples">Examples</a></p>
 	<blockquote><p><a href="#e1">Using of library</a></p></blockquote>
 </blockquote>
+<blockquote><p><a href="#struct">File structure</a></p></blockquote>
 	
 <hr name="install" />
 
@@ -112,6 +113,7 @@ If you tried to do console program on Python more intuitive to user, but all the
 	
 <hr />
 	
+<!-- example 1 -->
 <h4 name="e1" align="center">An example of using this library</h4>
 	
 ```Python
@@ -135,14 +137,34 @@ main.addItem()
 
 main.display()
 ```
+
+<!-- struct of the project -->
 	
 <hr name="struct"/>
 	
 <!-- title -->
 <h3 align="center">
- <b>✅ Structure ✅</b>
+ <b>✅ File structure ✅</b>
 </h3>
-
-<!-- examples  -->
 	
 <hr />
+
+<!-- structure of project files -->
+```
+consoleGUI.py
+	*--> imports.py
+		|--> plugins/blocks.py # include class for creating blocks
+		|--> plugins/events.py # include class with console events
+		|--> plugins/items.py # include class for creating items
+		*--> plugins/system.py # include class for multiplatform system [Linux / MAC / Windows]
+examples.py
+```
+<!-- <blockquote align><p><a>consoleGUI.py</a></p>
+	<blockquote align><p><a>imports.py</a></p>
+		<blockquote align><p><a>plugins/blocks.py # include class for creating blocks</a></p></blockquote>
+		<blockquote align><p><a>plugins/events.py # include class with console events</a></p></blockquote>
+		<blockquote align><p><a>plugins/items.py # include class for creating items</a></p></blockquote>
+		<blockquote align><p><a>plugins/system.py # include class for multiplatform system [Linux / MAC / Windows]</a></p></blockquote>
+	</blockquote>
+</blockquote>
+<blockquote align><p><a>examples.py</a></p></blockquote> -->
