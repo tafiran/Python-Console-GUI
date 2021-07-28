@@ -151,12 +151,17 @@ main.display()
 
 <!-- structure of project files -->
 ```
-consoleGUI.py
-	*--> imports.py
-		|--> plugins/blocks.py # include class for creating blocks
-		|--> plugins/events.py # include class with console events
-		|--> plugins/items.py # include class for creating items
-		*--> plugins/system.py # include class for multiplatform system [Linux / MAC / Windows]
+consoleGUI.py # main class file
+	|
+	*==> imports.py # file cosists all imports
+		|
+		|==> plugins/blocks.py # include class for creating blocks
+		|
+		|==> plugins/events.py # include class with console events
+		|
+		|==> plugins/items.py # include class for creating items
+		|
+		*==> plugins/system.py # include class for multiplatform system [Linux / MAC / Windows]
 examples.py
 ```
 <!-- <blockquote align><p><a>consoleGUI.py</a></p>
