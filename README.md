@@ -105,7 +105,7 @@ If you tried to do console program on Python more intuitive to user, but all the
 	
 <!-- title -->
 <h3 align="center">
- <b>🧭 Examples 🧭</b>
+ <b>🖋 Examples 🖋</b>
 </h3>
 
 <!-- examples  -->
@@ -135,3 +135,14 @@ main.addItem()
 
 main.display()
 ```
+	
+<hr name="struct"/>
+	
+<!-- title -->
+<h3 align="center">
+ <b>✅ Structure ✅</b>
+</h3>
+
+<!-- examples  -->
+	
+<hr />
