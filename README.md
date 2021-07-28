@@ -84,4 +84,54 @@ If you tried to do console program on Python more intuitive to user, but all the
 </blockquote>
 	
 <blockquote><p><a href="#content">Content</a></p></blockquote>
+<blockquote><p><a href="#install">Installation</a></p></blockquote>
+<blockquote><p><a href="#examples">Examples</a></p>
+	<blockquote><p><a href="#e1">Using of library</a></p></blockquote>
+</blockquote>
+	
+<hr name="install" />
 
+<!-- title -->
+<h3 align="center">
+ <b>🧭 Installation 🧭</b>
+</h3>
+
+<!-- installation  -->
+<hr />
+	
+	    $ pip3 install vk_api
+
+<hr name="examples"/>
+	
+<!-- title -->
+<h3 align="center">
+ <b>🧭 Examples 🧭</b>
+</h3>
+
+<!-- examples  -->
+	
+<hr />
+	
+<h4 name="e1" align="center">An example of using this library</h4>
+	
+```Python
+from consoleGUI import *
+
+# creating menu object
+exampleMenu = menuObject()
+
+# first block
+firstBlock = block()
+firstBlock.addItem()
+
+# second block
+secondBlock = block()
+secondBlock.addItem()
+
+# main block
+main = block()
+main.addBlock()
+main.addItem()
+
+main.display()
+```
